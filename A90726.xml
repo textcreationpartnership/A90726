@@ -1,0 +1,166 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The confession of Thomas Pjts: vvho was executed in Smithfield, on Saterday last, being the 12. of October; for endeavoring to betray Rvssell-Hall to the enemy. VVhich confession he desired to be written from his own mouth, at the place of execution: that it might be a warning to prevent others for offending in the like manner. Published according to order.</title>
+            <author>Pitt, Francis, 1578 or 9-1644.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90726</idno>
+            <idno type="STC">Wing P2300</idno>
+            <idno type="STC">Thomason E12_21</idno>
+            <idno type="STC">ESTC R4989</idno>
+            <idno type="EEBO-CITATION">99872762</idno>
+            <idno type="PROQUEST">99872762</idno>
+            <idno type="VID">125208</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90726)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 125208)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 3:E12[21])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The confession of Thomas Pjts: vvho was executed in Smithfield, on Saterday last, being the 12. of October; for endeavoring to betray Rvssell-Hall to the enemy. VVhich confession he desired to be written from his own mouth, at the place of execution: that it might be a warning to prevent others for offending in the like manner. Published according to order.</title>
+                  <author>Pitt, Francis, 1578 or 9-1644.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Raworth,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Octob. 14, 1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Known also as Francis Pitt.  Cf. BLC.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Pitt, Francis, 1578 or 9-1644.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:125208:1" rendition="simple:additions"/>
+            <p>THE CONFESSION OF <hi>THOMAS PJTS:</hi> VVho was Executed in <hi>Smithfield,</hi> on Saterday laſt, being the 12. of <hi>October;</hi> for endeavouring to betray <hi>R<g ref="char:V">Ʋ</g>SSELL-HALL</hi> To the Enemy.</p>
+            <p>VVhich Confeſsion he deſired to be Written from his own Mouth, at the place of Execution: That it might be a warning to prevent others for offending in the like manner.</p>
+            <p>Publiſhed according to Order.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>John Raworth, Octob.</hi> 14. 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:125208:2"/>
+            <pb n="3" facs="tcp:125208:2"/>
+            <head>The Confeſsion of <hi>Thomas Pits,</hi> Farmer, in the County of <hi>Stafford,</hi> A little before his Execution in <hi>Smithfield,</hi> the 12. of <hi>October,</hi> 1644.</head>
+            <epigraph>
+               <q>I deſire that one would write down my Confeſsion, whereby others may take example.</q>
+            </epigraph>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="scaffold_speech">
+                        <opener>
+                           <salute>GOOD PEOPLE,</salute>
+                        </opener>
+                        <p>I deſire the Lord to bleſſe you all, and I deſire all your prayers to Heaven fo<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> me. I deſire to ſpeak to you all in generall. I am here juſtly brought to this place, for mine offence, by ſeeking to betray a Garriſon under the Parliaments com<g ref="char:EOLhyphen"/>mand: In that Act I was made an Inſtrument, betwixt two Commanders; of which Treachery, I was not ig<g ref="char:EOLhyphen"/>norant: And for that fact, I confeſſe, That I deſerve this death; and deſire all Spectators to take notice of it. I for my own part, have been bred up under a powerfull Miniſtery, and have had good education, and have been a great Profeſſor; but the Lord knows my heart, I have been a diſſembling Hypocrit, And now I here do heartily confeſſe the offence; and the Lord bleſſe you all, and
+<pb n="4" facs="tcp:125208:3"/>give every one grace to take notice thereof, and to be warned thereby: And the Lord bleſſe this great City; and the Lord bleſſe the Countrey likewiſe; and the Lord make every man faithfull. I have been a great Pro<g ref="char:EOLhyphen"/>feſſor, but I have not done my Maſters will. I have been a great ſinner, and I now call to minde a Text in the firſt of the <hi>Romans,</hi> from the 27. verſe to the end, of 17 or 18 ſins which I am gui<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ty of all: therefore I ſuffer juſtly. I deſire all men to take notice of my ſaying; and I de<g ref="char:EOLhyphen"/>ſire, that if any Magiſtrates, or Parliament men be here, or if not, thoſe that have moſt relation to them, would take notice of it, 1. That great offenders may be brought to condign puniſhment, as well as leſſer: For my part, I deſire to juſtifie that good Councell of War, and the Lord bleſſe them, for they have dealt juſtly with me; and there be ſtill many <hi>Achans</hi> in the Camp. The Lord bleſſe the Parliament, and keep them from Treachery; and the Lord bleſſe the King; and I deſire every honeſt man to honour Him, as He doth honour God: I deſire the Lord to bring Him home to His Parliament, and to re<g ref="char:EOLhyphen"/>move far from Him, evill Councellours; and the Lord bleſſe His Friends, and Well-willers: I am perſwaded, that the Kings heart is honeſt, but onely miſled; and I hope he will return to His Parliament: That though I am now a dying man, yet you that hear me this day, may enjoy a happy Peace. And now you that hear me, and are to celebrate a Sabboth to morrow, I beſeech you all to prepare your ſelves for it; and labour to riſe early to fit you for the Lords Work: If any of you be to go to a Countrey Market, though in the depth of Winter, yet you will be up before day to go to it; therefore I be<g ref="char:EOLhyphen"/>ſeech you to make uſe of the time, for the Market of your
+<pb n="5" facs="tcp:125208:3"/>ſouls: Labour to hearken to this Word of God, and labour to carry it home with you, and to practiſe it. I have lived in a Countrey where few powerfull Miniſters are; and you that have ſlighted the Word of God for<g ref="char:EOLhyphen"/>merly, take heed of it: I have been a great offender in this particular, and I have played the Hypocrite exceed<g ref="char:EOLhyphen"/>ingly; I have been very zealous outwardly, and I have kept many Faſt dayes very ſtrictly, both publike and pri<g ref="char:EOLhyphen"/>vate; I have enjoyed the company of the beſt Miniſters, and I have aſſociated my ſelf with moſt religious people, and yet have played the Hypocrite exceedingly: The Lord forgive me, and good people pray for me; and now lift up all your hearts to God for me: I have known much, and done little, I pray God give you all grace to labour to know much, and to practiſe it.</p>
+                        <p>Now concerning my being in Garriſon in <hi>Ruſſell-Hall</hi> in <hi>Staffordſhire,</hi> being urged by Maſter <hi>Smart,</hi> Miniſter of Gods Word, to deliver my opinion concerning them. For their profeſſion, they do all profeſſe God; but I ne<g ref="char:EOLhyphen"/>ver heard nor ſaw, ſo much ſwearing, and drunkenneſſe, and other prophanations, as was in that place: For the Martiall of that place, he would ſwear and domineer, and was ſo diſcontented, as if he would cauſe the ſtones to flie out of the Walls. Now the Lord amend that and other places, under the Parliaments Command; and good people pray for me, and help me in remembring me to utter what I have to ſpeak: The Gentleman that imployed me about this Treachery, was the Governour of <hi>Dudley</hi> Caſtle, his name is <hi>Luſon,</hi> he is my Landlord, and I hold a Farm of him for my life which this day I muſt ſurrender: he ſent to me to come to him, and askt me what I did ſo often at <hi>Ruſſell-Hall,</hi> I told him I had
+<pb n="6" facs="tcp:125208:4"/>ſeverall occaſions, ſometimes to receive money, and ſometimes to pay money; he told me, he deſired me to do one meſſage for him to the Governour, that was to bay that Garriſon of him, and he would give him eleven hundred pounds for it; I told him of it, and he ſent me with Letters back, and ſo I carried meſſages from one to the other: but Captain <hi>Tuckhill</hi> did not de<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>iver it up; yet offered me, if I could make the match, he would give me one hundred pounds of it; yet I never askt him for any money, neither had any, but one fourty ſhillings which he gave me without demand: And I thank God, that the d<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>livery up of that Caſtle, is hid from my eyes. <hi>Luſon</hi> did give me no money, but he promiſed to be as good to me, as ſeven yeers Rent. I deſire you that write it, to take notice thereof, that it may be publiſhed, that all the world may take warning of ſuch falſe hearted<g ref="char:EOLhyphen"/>neſſe. I confeſſe my offence as great, and far greater then others, becauſe that I have been a great Profeſſour, and have ſtood for this Cauſe now in hand, and have al<g ref="char:EOLhyphen"/>wayes held it to be juſt and right; and all my Friends, and Children, have ſtood for this Cauſe; and we do verily beleeve it to be the Cauſe of God: but it is for my ſins, and the ſins of other Hypocrites, that Gods Cauſe hath been ſo much diſhonoured and beaten down. I deſire you all, that Religion may not be ſtained by my ſuffering, nor good men ſlighted, nor Gods Cauſe fair the worſe for my Hypocriſie. I never read, but there was ſome wicked amongſt the moſt godly: There is ſome Chaff amongſt the finiſh Wheat, and one <hi>Judas</hi> amongſt the twelve Apoſtles: there was one in Gods Camp, and therefore, I beſeech you all judge not ill of the Cauſe of Chriſt for my offence. One thing I deſire to ſpeak again
+<pb n="7" facs="tcp:125208:4"/>to you that are Magiſtrates, and intimate with them, I deſire you to ſpeak theſe laſt words of mine to them; I mean to the Lord Mayor, and this Honourable Coun<g ref="char:EOLhyphen"/>cell of War; and tell them, that I beſeech them, That great offenders may be brought to tryall, as well as leſſer. Now for you that are imployed in Gods Cauſe, and are called forth to fight his battle, go courageouſly, and know, that you are never without God for your Cap<g ref="char:EOLhyphen"/>tain, as you may read, 2 <hi>Chron.</hi> 14.8, 9, 10, 11. and <hi>Judges</hi> 5.23. For the Earl of <hi>Denbigh</hi> I hear, is going out for <hi>Staffordſhire;</hi> the Lord bleſſe and proſper him. I hear and hope he is an honeſt man, I pray God increaſe it, and bleſſe him: I could wiſh he were now with his For<g ref="char:EOLhyphen"/>ces there; for that Countrey is in great want of them: And I could wiſh that he would take with him, ſome good and faithfull Miniſters, to plant in that barren Countrey.</p>
+                        <p>And you Maſter <hi>Smart,</hi> I beſeech you be an Inſtru<g ref="char:EOLhyphen"/>ment of helping faithfull Miniſters amongſt your Coun<g ref="char:EOLhyphen"/>treymen.</p>
+                        <p>And now good people, I beſeech you all pray for me, and hear me once more: I wiſh I could be heard of all, <gap reason="illegible" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>at are to enjoy a Sabbath the next day; Labour to pre<g ref="char:EOLhyphen"/>pare your ſelves for Gods Service, and to hearken dili<g ref="char:EOLhyphen"/>gently to Gods Word; Labour to renue your Covenant, that of late you have made with God: Let theſe laſt words of a dying man prevail with you, To ſtick cloſe to God and his Cauſe. I confeſſe, I heard of the Cove<g ref="char:EOLhyphen"/>nant, but I never took it: you that have taken it, be carefull to renew it and keep it. And ſo the Lord bleſſe you all, King, Parliament, Citie, Countrey, and all.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <pb n="8" facs="tcp:125208:5"/>
+Now being deſired by the Miniſters that ſtood by, that if he found any ſpirituall com<g ref="char:EOLhyphen"/>fort before his laſt breath, that he would give ſome token of it; and immediately after his turning off the Ladder, he lifted up his hands towards Heaven, and gave three ſtrokes upon his Breaſt, which we take for a Teſtimony, that his ſoul is now at reſt in Heaven.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
